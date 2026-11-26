@@ -1,0 +1,904 @@
+﻿english,dzongkha
+what is your name,ཁྱོད་ཀྱི་མིང་ག་ཅི་ཨིན་ན?
+good morning,དྲོ་པ་བདེ་ལེགས།
+good afternoon,ཉིན་མ་བདེ་ལེགས།
+good evening,ཕྱི་རུ་བདེ་ལེགས།
+good night,ནུབ་མོ་བདེ་ལེགས།
+kuzuzangpo,སྐུ་ཟུགས་བཟང་པོ
+kuzuzangpo la,སྐུ་ཟུགས་བཟང་པོ་ལགས།
+kuzu zangpo la,སྐུ་ཟུགས་བཟང་པོ་ལགས།
+hello everyone,ག་ར་ལུ་སྐུ་ཟུགས་བཟང་པོ་ལགས།
+hello friend,ཆ་རོགས་སྐུ་ཟུགས་བཟང་པོ།
+yes,ཨིན།
+no,མེན།
+please,གནང་།
+sorry,དགོངས་མ་ཁྲེལ།
+excuse me,དགོངས་མ་ཁྲེལ་ལགས།
+i am fine,ང་ལེགས་ཤོམ་སྦེ་ཡོད།
+where are you going,ཁྱོད་ག་ཏེ་འགྱོ་ནི་སྨོ?
+where are you from,ཁྱོད་ག་ཏེ་ལས་ཨིན་ན?
+i am from bhutan,ང་འབྲུག་ལས་ཨིན།
+welcome,བྱོན་པ་ལེགས་སོ།
+nice to meet you,ཁྱོད་དང་ཕྱད་པར་སེམས་དགའ་ཡི།
+do you understand,ཁྱོད་ཀྱིས་ཧ་གོ་ག?
+i understand,ང་གིས་ཧ་གོ་ཡི།
+i do not understand,ང་གིས་ཧ་མ་གོ།
+help,གྲོགས་རམ།
+please help me,ང་ལུ་གྲོགས་རམ་འབད་གནང་།
+water,ཆུ
+food,བཞེས་སྒོ
+tea,ཇ
+rice,ལྟོ
+ema datshi,ཨེ་མ་དར་ཚི
+house,ཁྱིམ
+school,སློབ་གྲྭ
+hospital,སྨན་ཁང
+office,ཡིག་ཚང
+government,གཞུང
+country,རྒྱལ་ཁབ
+district,རྫོང་ཁག
+block,རྒེད་འོག
+monastery,དགོན་པ
+temple,ལྷ་ཁང
+fortress,རྫོང
+language,སྐད་ཡིག
+dzongkha,རྫོང་ཁ
+book,དཔེ་ཆ
+student,སློབ་ཕྲུག
+teacher,སློབ་དཔོན
+doctor,དྲུང་འཚོ
+friend,ཆ་རོགས
+family,བཟའ་ཚང
+mother,ཨའི
+father,ཨ་པ
+brother,ཕོ་རྒན
+sister,ཨ་ཞེམོ
+computer,གློག་རིག
+internet,ཡོངས་འབྲེལ
+phone,འགྲུལ་འཕྲིན
+television,རྒྱང་མཐོང
+vehicle,སྣུམ་འཁོར
+money,ཏི་རུ
+ngultrum,དངུལ་ཀྲམ
+today,ད་རིས
+tomorrow,ནངས་པ
+yesterday,ཁ་ཙ
+now,ད་ལྟོ
+time,དུས་ཚོད
+day,ཉིནམ
+night,ནུབ་མོ
+year,ལོ
+month,ཟླཝ
+good,ལེགས་ཤོམ
+bad,ངན་པ
+big,སྦོམ
+small,ཆུང་ཀུ
+hot,ཚ་དྲོད
+cold,བསིལ་དྲགས
+happy,སེམས་དགའ་བ
+sad,སེམས་སྐྱོ་བ
+beautiful,མཛེས་ཏོག་ཏོ
+important,གལ་ཅན
+work,ལཱ
+love,བརྩེ་གདུང
+peace,ཞི་བདེ
+happiness,དགའ་སྐྱིད
+gross national happiness,རྒྱལ་ཡོངས་དགའ་སྐྱིད་དཔལ་འཛོམས
+we,ང་བཅས
+our,ང་བཅས་ཀྱི
+they,ཁོང་
+their,ཁོང་གི
+he,ཁོ
+she,མོ
+it,འདི
+this,འདི
+that,ཕ་གི
+what,ག་ཅི
+who,ག་
+where,ག་ཏེ
+when,ནམ
+why,ག་ཅི་སྦེ
+how,ག་དེ་སྦེ
+go,འགྱོ
+come,ཤོག
+eat,ཟ
+drink,འཐུང
+speak,སླབ
+read,ལྷབ
+write,བྲིས
+know,ཤེས
+want,དགོ
+good luck,བཀྲ་ཤིས་བདེ་ལེགས།
+best wishes,བཀྲ་ཤིས་བདེ་ལེགས།
+see you later,ཤུལ་ལས་ལོག་ཕྱད་གེ།
+see you tomorrow,ནངས་པ་ཕྱད་གེ།
+how much,ག་དེམ་ཅིག་སྨོ?
+no problem,ཁྱད་མེད།
+what is the problem,དཀའ་ངལ་ག་ཅི་ཡོདཔ་སྨོ?
+where is the bank,དངུལ་ཁང་ག་ཏེ་ཡོདཔ་སྨོ?
+thank you very much,བཀྲིན་ཆེ་ལགས་བཀའ་དྲིན་ཆེ།
+you are welcome,བྱོན་པ་ལེགས་སོ།
+i do not know,ང་གིས་མི་ཤེས།
+can you speak dzongkha,ཁྱོད་ཀྱིས་རྫོང་ཁ་སླབ་ཤེས་ག?
+i am learning dzongkha,ང་རྫོང་ཁ་ལྷབ་དོ།
+what time is it,ཆུ་ཚོད་ག་དེམ་ཅིག་ཡར་སོངཔ་སྨོ?
+i am hungry,ང་ལྟོཝ་བཀྱེས་དེས།
+i am thirsty,ང་ཁ་སྐོམ་དེས།
+let us go,ང་བཅས་འགྱོ་གེ།
+wait a moment,ཨ་ཙི་ཅིག་སྒུག་གནང་།
+come inside,ནང་ན་བྱོན་གནང་།
+sit down,བཞུགས་གནང་།
+minister,བློན་པོ
+prime minister,བློན་ཆེན
+parliament,སྤྱི་ཚོགས
+national assembly,རྒྱལ་ཡོངས་ཚོགས་འདུ
+national council,རྒྱལ་ཡོངས་ཚོགས་སྡེ
+constitution,རྩ་ཁྲིམས་ཆེན་མོ
+law,ཁྲིམས
+judge,དྲང་དཔོན
+court,ཁྲིམས་ཁང
+police,ཁྲིམས་སྲུང་འགག་པ
+army,དྲག་པོའི་དམག
+civil servant,ཞི་གཡོགཔ
+district administrator,རྫོང་བདག
+block leader,རྒཔོ
+municipality,ཁྲོམ་སྡེ
+village,གཡུས
+city,ཁྲོམ
+capital,རྒྱལ་ས
+king,རྒྱལ་པོ
+queen,རྒྱལ་བཙུན
+royal family,རྒྱལ་བརྒྱུད
+crown prince,རྒྱལ་སྲས
+monk,དགེ་སློང
+chief abbot,རྗེ་མཁན་པོ
+festival,ཚེས་བཅུ
+mask dance,འཆམ
+stupa,མཆོད་རྟེན
+prayer flag,དར་ཤིང
+national dress,རྒྱལ་ཡོངས་གྱོན་ཆས
+traditional scarf,བཀབ་ནེ
+arts and crafts,བཟོ་རིག་བཅུ་གསུམ
+tourism,ལྟ་བཤལ
+tourist,ལྟ་བཤལཔ
+environment,མཐའ་འཁོར
+forest,ནགས་ཚལ
+mountain,གངས་རི
+river,གཙང་ཆུ
+weather,གནམ་གཤིས
+rain,ཆརཔ
+sun,ཉིམ
+wind,རླུང
+snow,ཁཝ
+health,གསོ་བ
+medicine,སྨན
+nurse,ནད་གཡོགཔ
+patient,ནདཔ
+economy,དཔལ་འབྱོར
+business,ཚོང་འབྲེལ
+bank,དངུལ་ཁང
+market,ཚོང་ཁང
+price,གོང་ཚད
+expensive,གོང་སྦོམ
+cheap,གོང་ཆུང་ཀུ
+agriculture,སོ་ནམ
+farmer,སོ་ནམ་པ
+electricity,གློག་མེ
+hydropower,ཆུ་གློག
+airport,གནམ་གྲུ་ཐང
+airplane,གནམ་གྲུ
+road,ལམ
+bridge,ཟམ
+software,མཉེན་ཆས
+hardware,མཁྲེགས་ཆས
+data,གནད་སྡུད
+database,གནད་སྡུད་མཛོད
+network,ཡོངས་འབྲེལ་མཐུད་ལམ
+website,ཡོངས་འབྲེལ་འཆར་སྒོ
+application,རིམ་ལུགས
+system,ལམ་ལུགས
+user,ལག་ལེན་པ
+password,གསང་ཚིག
+information,བརྡ་དོན
+communication,བརྒྱུད་འབྲེལ
+science,ཚན་རིག
+mathematics,རྩིས་རིག
+history,རྒྱལ་རབས
+culture,ལམ་སྲོལ
+tradition,སྔར་སྲོལ
+religion,ཆོས
+buddhism,ནང་པའི་ཆོས
+sunday,གཟའ་ཉི་མ
+monday,གཟའ་ཟླ་བ
+tuesday,གཟའ་མིག་དམར
+wednesday,གཟའ་ལྷག་པ
+thursday,གཟའ་ཕུར་བུ
+friday,གཟའ་པ་སངས
+saturday,གཟའ་སྤེན་པ
+white,དཀརཔོ
+black,གནགཔོ
+red,དམརཔོ
+blue,ཧོནམ
+green,ལྗང་ཁུ
+yellow,སེརཔོ
+head,མགུ་ཏོ
+eye,མིག་ཏོ
+ear,རྣམ་ཅོ
+nose,ཧཔ
+mouth,ཁ
+hand,ལགཔ
+foot,རྐངམ
+heart,ཧིང
+stomach,ཕོ་བ
+back,སྒལ་ཏོ
+hair,སྐྱ
+blood,ཁྲག
+bone,རུ་ཏོ
+spring,སོ་ཁ
+summer,བྱཱར
+autumn,སེར་ཁ
+winter,དགུན
+morning,དྲོ་པ
+afternoon,ཉིན་མ
+evening,ཕྱི་རུ
+midnight,ནམ་ཕྱེད
+week,བདུན་ཕྲག
+century,དུས་རབས
+fast,མགྱོགས་པ
+slow,འགོར་པོ
+new,གསརཔ
+old,རྙིངམ
+clean,གཙང་སྦྲ
+dirty,བཙོག་པ
+heavy,ལྗིད་ཅན
+light,ཡང་པོ
+strong,སྒྲིང་སྒྲི
+weak,ཞན་པ
+true,བདེན་པ
+false,རྫུན་མ
+right,བདེན
+wrong,འཛོལ་བ
+easy,འཇམ་ཏོག་ཏོ
+difficult,ལཱ་ཁག
+near,ཉེ་འདབས
+far,ཐག་རིང
+full,གངམ
+empty,སྟོངམ
+open,ཁ་ཕྱེ
+close,ཁ་བསྡམ
+buy,ཉོ
+sell,བཙོང
+give,བྱིན
+take,ལེན
+look,བལྟ
+listen,ཉན
+think,མནོ་བསམ་གཏང
+sleep,ཉལ
+wake up,ལོངས
+walk,རྐང་སྟོང་འགྱོ
+run,བང་རྒྱུག
+sit,སྡོད
+stand,ལོངས
+laugh,དགོད
+cry,ངུ
+ask,དྲིས
+tell,སླབ
+teach,སྟོན
+learn,ལྷབ
+build,བཟོ
+break,བཅག
+wash,འཁྱུ
+cook,བཙོ
+clean,ཕྱགས་བདར་རྐྱབ
+drive,སྣུམ་འཁོར་གཏང
+fly,འཕུར
+swim,རྐྱལ་རྐྱབ
+sing,ཞབས་ཁྲ་འཐེན
+dance,ཞབས་ཁྲ་རྐྱབ
+play,རྩེདམོ་རྩེ
+win,རྒྱལ
+lose,ཕམ
+start,འགོ་བཙུགས
+stop,བཀག
+finish,མཇུག་བསྡུ
+remember,དྲན
+forget,བརྗེད
+believe,ཡིད་ཆེས
+hope,རེ་བ
+choose,གདམ་ཁ་རྐྱབ
+agree,ཆ་འཇོག་འབད
+refuse,ངོས་ལེན་མ་འབད
+protect,ཉེན་སྲུང་འབད
+respect,གུས་ཞབས་འབད
+serve,ཞབས་ཏོག་ཞུ
+develop,ཡར་རྒྱས་གཏང
+archery,མདའ་རྩེད
+bow,གཞུ
+arrow,མདའ
+target,འབའ
+bullseye,ཀ་རིལ
+darts,ཁུ་རུ
+shot put,དཔུང་རྡོ
+soccer,རྐང་རྩེད
+basketball,དྲ་རྩེད
+game,རྩེདམོ
+player,རྩེད་འགྲན་པ
+team,སྡེ་ཚན
+prize,གསོལ་རས
+trophy,རྒྱལ་རྟགས
+first month,ཟླ་དང་པ
+second month,ཟླ་གཉིས་པ
+third month,ཟླ་གསུམ་པ
+fourth month,ཟླ་བཞི་པ
+fifth month,ཟླ་ལྔ་པ
+sixth month,ཟླ་དྲུག་པ
+seventh month,ཟླ་བདུན་པ
+eighth month,ཟླ་བརྒྱད་པ
+ninth month,ཟླ་དགུ་པ
+tenth month,ཟླ་བཅུ་པ
+eleventh month,ཟླ་བཅུ་གཅིག་པ
+twelfth month,ཟླ་བཅུ་གཉིས་པ
+holiday,ངལ་གསོ
+national day,རྒྱལ་ཡོངས་དུས་ཆེན
+blessed rain day,ཁྲུས་བབས་དུས་ཆེན
+account,རྩིས་ཁྲ
+deposit,མ་དངུལ་བཙུགས་ནི
+withdraw,ཏི་རུ་བཏོན་ནི
+loan,སྐྱིན་འགྲུལ
+interest,སྐྱེད་ཀ
+tax,ཁྲལ
+receipt,འབྱོར་རྟགས
+salary,དངུལ་ཕོགས
+budget,འཆར་དངུལ
+profit,ཁེ་སངས
+loss,རྒུད་ཕོག
+angry,ཚིགཔ་ཟ་བ
+afraid,འདྲོག་བྱེལ
+tired,ཐང་ཆད་པ
+excited,སེམས་སྤྲོ་བ
+proud,སྤོབས་པ
+shy,ངོ་ཚ་བ
+kind,བྱམས་སྐྱོང་ཅན
+honest,དྲང་བདེན
+brave,དཔའ་བོ
+clever,རིག་པ་ཅན
+lazy,ལེ་ལོ་ཅན
+busy,ཁོམ་མེད
+sick,ན་ཚ་བ
+healthy,གཟུགས་ཁམས་བཟང་པོ
+hungry,ལྟོཝ་བཀྱེས་པ
+thirsty,ཁ་སྐོམ་པ
+hotel,མགྲོན་ཁང
+restaurant,ཟ་ཁང
+shop,ཚོང་ཁང
+ticket,འཛིན་ཤོག
+passport,ཕྱི་སྐྱོད་ལག་ཁྱེར
+visa,སྐྱོད་ཐམ
+luggage,ཅ་ལ
+driver,སྣུམ་འཁོར་གཏང་མི
+passenger,འགྲུལ་པ
+traffic,འགྲུལ་འཁོར་འགྲོ་འོང
+map,ས་ཁྲ
+direction,ཕྱོགས
+straight,ཐད་ཀར
+turn left,གཡོན་ལུ་བསྒྱིར
+turn right,གཡས་ལུ་བསྒྱིར
+stop here,ནཱ་ལུ་བཀག་གནང་
+how far is it,ག་དེམ་ཅིག་ཐག་རིངམ་སྨོ?
+i lost my way,ང་ལམ་འཛོལ་སོ་ཡི།
+can you show me,ཁྱོད་ཀྱིས་ང་ལུ་སྟོན་ཚུགས་ག?
+what does this mean,འདི་གི་གོ་དོན་ག་ཅི་སྨོ?
+please repeat that,ལོག་སྟེ་གསུང་གནང་།
+speak slowly,ག་ལེ་སྦེ་གསུང་གནང་།
+write it down,བྲིས་གནང་།
+cloud,སྤྲིན
+fog,སྨུག་པ
+thunder,འབྲུག་སྐད
+lightning,གློག་འཁྱུག
+earthquake,ས་གཡོམ
+flood,ཆུ་རུད
+landslide,ས་རུད
+sunshine,ཉི་འོད
+shadow,གྲིབ་མ
+temperature,ཚ་དྲོད་ཚད
+season,དུས་ཚོད
+dry season,སྐམ་དུས
+monsoon,ཆར་དུས
+palace,ཕོ་བྲང
+courtyard,རྡོ་གཅལ
+altar,མཆོད་བཤམ
+butter lamp,དཀར་མེ
+incense,སྤོས
+prayer wheel,མ་ཎི་འཁོར་ལོ
+rosary,ཕྲེང་བ
+blessing,བྱིན་རླབས
+merit,བསོད་ནམས
+karma,ལས
+compassion,སྙིང་རྗེ
+wisdom,ཤེས་རབ
+meditation,སྒོམ
+peace of mind,སེམས་ཞི་བདེ
+university,གཙུག་ལག་སློབ་སྡེ
+college,མཐོ་རིམ་སློབ་གྲྭ
+principal,སློབ་དབུ་འཛིན
+exam,ཆོས་རྒྱུགས
+grade,སྐུགས
+certificate,ལག་ཁྱེར
+degree,གཙུག་ལག་གཞི་རིམ་ཤེས་ཚད
+library,དཔེ་མཛོད
+laboratory,བརྟག་དཔྱད་ཁང
+research,ཞིབ་འཚོལ
+project,ལས་འགུལ
+report,སྙན་ཞུ
+meeting,ཞལ་འཛོམས
+director,མདོ་ཆེན
+secretary,དྲུང་ཆེན
+manager,འཛིན་སྐྱོང་པ
+staff,ལས་བྱེདཔ
+document,ཡིག་ཆ
+signature,མཚན་རྟགས
+stamp,ཐམ་ག
+envelope,ཡིག་ཤུབས
+letter,ཡི་གུ
+address,ཁ་བྱང
+telephone,བརྒྱུད་འཕྲིན
+message,འཕྲིན་དོན
+photo,པར
+camera,པར་ཆས
+music,སྙན་ཆ
+song,ཞབས་ཁྲ
+story,སྲུང
+news,གནས་ཚུལ
+newspaper,གསར་ཤོག
+radio,རླུང་འཕྲིན
+flag,རྒྱལ་དར
+anthem,རྒྱལ་གླུ
+hero,དཔའ་བོ
+leader,འགོ་ཁྲིདཔ
+citizen,མི་སེར
+community,མི་སྡེ
+society,སྤྱི་ཚོགས
+freedom,རང་དབང
+justice,དྲང་བདེན
+equality,འདྲ་མཉམ
+duty,འགན་ཁུར
+rule,སྒྲིག་གཞི
+permission,གནང་བ
+prohibited,བཀག་ཆ་ཡོདཔ
+danger,ཉེན་ཁ
+safe,ཉེན་སྲུང་ཅན
+emergency,གློ་བུར་ཉེན་ཁ
+ambulance,ནད་པ་སྐྱེལ་འདྲེན་སྣུམ་འཁོར
+fire engine,མེ་གསོད་སྣུམ་འཁོར
+pharmacy,སྨན་ཚོང་ཁང
+medicine dose,སྨན་ཐུན
+pain,ན་ཟུག
+fever,ཚ་བ
+cough,ལུ་བ
+cold sickness,ཆམ་པ
+headache,མགུ་ན་ནི
+stomach ache,ཕོ་བ་ན་ནི
+get well soon,མགྱོགས་པ་དྲག་བཅུག
+excuse me please,དགོངས་མ་ཁྲེལ་ལགས།
+it does not matter,ཁྱད་པར་མེད།
+i agree with you,ང་ཁྱོད་དང་གཅིག་ཁར་མོས་མཐུན་ཡོད།
+that is correct,འདི་བདེན་པ་ཨིན།
+that is not right,འདི་མ་བདེན།
+please come again,ལོག་སྟེ་བྱོན་གནང་།
+have a safe journey,ལམ་འགྲུལ་བདེ་བར་བྱོན་གནང་།
+bumthang,བུམ་ཐང
+chhukha,ཆུ་ཁ
+dagana,དར་དཀར་ན
+gasa,མགར་ས
+haa,ཧཱ
+lhuentse,ལྷུན་རྩེ
+mongar,མོང་སྒར
+paro,སྤ་རོ
+pema gatshel,པདྨ་དགའ་ཚལ
+punakha,སྤུ་ན་ཁ
+samdrup jongkhar,བསམ་གྲུབ་ལྗོངས་མཁར
+samtse,བསམ་རྩེ
+sarpang,གསར་སྤང
+trashigang,བཀྲ་ཤིས་སྒང
+trashi yangtse,བཀྲ་ཤིས་གཡང་རྩེ
+trongsa,ཀྲོང་གསར
+tsirang,རྩི་རང
+wangdue phodrang,དབང་འདུས་ཕོ་བྲང
+zhemgang,གཞལམ་སྒང
+takin,འབྲུག་རྒྱལ་གྱི་སེམས་ཅན་འབྲོང་གཡག
+blue poppy,ཨུཏྤལ་སྔོན་པོ
+cypress,ཙན་དན་ཤིང
+raven,བྱ་རོག
+black necked crane,ཁྲུང་ཁྲུང་དཀར་ནག
+snow leopard,གངས་གཟིག
+red panda,ཨ་ཅུ་གདོང་དཀར
+tiger,སྟག
+bear,དོམ
+monkey,སྤྱ་དཀར
+elephant,གླང་པོ་ཆེ
+rhododendron,ཨེ་ཏོག་མེ་ཏོག
+bamboo,སྤག
+pine tree,ཐང་ཤིང
+algorithm,རྩིས་ཐབས
+machine learning,འཕྲུལ་ཆས་སློབ་སྦྱོང
+deep learning,གཏིང་ཟབ་སློབ་སྦྱོང
+neural network,དབང་རྩའི་མཐུད་ལམ
+natural language processing,རང་བཞིན་སྐད་ཡིག་བཀོལ་སྤྱོད
+translation,སྐད་སྒྱུར
+dictionary,ཚིག་མཛོད
+vocabulary,མིང་ཚིག
+grammar,བརྡ་སྤྲོད
+pronunciation,སྒྲ་གདངས
+keyboard,ལྡེ་སྒྲོམ
+screen,འཆར་ཤེལ
+mouse,ཙི་ཙི
+file,ཡིག་སྣོད
+folder,ཡིག་ཁུག
+download,ཕབ་ལེན
+upload,ཡར་བསྐྱེལ
+search,འཚོལ་ཞིབ
+error,འཛོལ་བ
+update,དུས་མཐུན
+version,ཐོན་རིམ
+security,ཉེན་སྲུང
+privacy,སྒེར་གསང
+robot,འཕྲུལ་མི
+automation,རང་འགུལ་རིམ་ལུགས
+satellite,འཁོར་སྐར
+solar power,ཉི་འོད་གློག་ཤུགས
+climate change,གནམ་གཤིས་འགྱུར་བ
+sustainable development,ཡུན་བརྟན་གོང་འཕེལ
+culture and tradition,ལམ་སྲོལ་དང་སྔར་སྲོལ
+national dress for men,གོ
+national dress for women,དཀྱི་ར
+archery ground,འབའ་ས
+hot stone bath,ཆུ་ཚན
+medicinal herbs,སྨན་རྩྭ
+cordyceps,དབྱར་རྩྭ་དགུན་འབུ
+incense stick,བདུག་སྤོས
+butter tea,སུ་ཇ
+sweet tea,མངར་ཇ
+roasted rice,ཟོཝ
+puffed rice,སིབ
+buckwheat pancake,ཁུ་ལི
+buckwheat noodles,པུ་ཏ
+red rice,འབྲས་དམརཔོ
+chili cheese,ཨེ་མ་དར་ཚི
+mushroom cheese,ཤ་མུ་དར་ཚི
+potato cheese,ཀེ་བ་དར་ཚི
+pork with radish,ཕག་ཤ་ལ་ཕུག
+dried beef,ཤ་སྐམ
+what is your favorite food,ཁྱོད་ཀྱིས་དགའ་ཤོས་བཞེས་སྒོ་ག་ཅི་སྨོ?
+bhutan is a peaceful country,འབྲུག་འདི་ཞི་བདེའི་རྒྱལ་ཁབ་ཅིག་ཨིན།
+gross national happiness is more important than gross domestic product,རྒྱལ་ཡོངས་དགའ་སྐྱིད་དཔལ་འཛོམས་འདི་རྒྱལ་ཡོངས་ནང་འོང་ཐོན་སྐྱེད་ལས་གལ་ཆེ།
+please eat (honorific),བཞེས་གནང་།
+please drink (honorific),བཞེས་གནང་།
+please sleep (honorific),གཟིམས་གནང་།
+please go (honorific),བྱོན་གནང་།
+please come (honorific),བྱོན་གནང་།
+please speak (honorific),གསུང་གནང་།
+please look (honorific),གཟིགས་གནང་།
+hand (honorific),ཕྱག
+foot (honorific),ཞབས
+head (honorific),དབུ
+eye (honorific),སྤྱན
+mouth (honorific),ཞལ
+name (honorific),མཚན
+house (honorific),གཟིམ་ཅུང
+clothes (honorific),ན་བཟའ
+health (honorific),སྐུ་གཟུགས
+how is your health (honorific),སྐུ་གཟུགས་བཟང་པོ་ཡོད་ག?
+what is your name (honorific),ཁྱོད་ཀྱི་མཚན་ག་ཅི་སྨོ?
+where are you going (honorific),ཁྱོད་ག་ཏེ་བྱོན་ནི་སྨོ?
+long live the king,མངའ་བདག་རྒྱལ་པོ་སྐུ་ཚེ་ཞབས་པད་བརྟན་པར་ཤོག
+national anthem,རྒྱལ་གླུ
+royal government of bhutan,དཔལ་ལྡན་འབྲུག་གཞུང
+ministry,ལྷན་ཁག
+department,ལས་ཁུངས
+division,སྡེ་ཚན
+policy,སྲིད་བྱུས
+strategy,ཐབས་བྱུས
+plan,འཆར་གཞི
+implementation,ལག་ལེན
+evaluation,དབྱེ་ཞིབ
+regulation,བཅའ་ཁྲིམས
+act,ཁྲིམས་ལུགས
+crime,ནག་ཉེས
+punishment,ཉེས་ཆད
+witness,དཔང་པོ
+evidence,སྒྲུབ་བྱེད
+contract,གན་རྒྱ
+agreement,ཆིངས་ཡིག
+certificate of origin,འབྱུང་ཁུངས་ལག་ཁྱེར
+census,མི་རྩིས
+citizenship,མི་ཁུངས
+identity card,ངོ་སྤྲོད་ལག་ཁྱེར
+marriage,གཉེན་སྒྲིག
+divorce,གཉེན་འཐོར
+birth,སྐྱེ་བ
+death,འཆི་བ
+funeral,དགེ་རྩ
+surgery,གཤག་བཅོས
+blood pressure,ཁྲག་ཤུགས
+diabetes,གཅིན་སྙི་ནད་གཞི
+infection,འགོ་ནད
+vaccine,སྨན་ཁབ
+emergency ward,གློ་བུར་ནད་པའི་ཁང་མིག
+appointment,དུས་ཆད
+prescription,སྨན་ཡིག
+side effect,ཞོར་སྐྱོན
+recovery,དྲག་སྐྱེད
+mental health,སེམས་ཁམས་གསོ་བ
+nutrition,ཟས་བཅུད
+exercise,ལུས་སྦྱོང
+hygiene,གཙང་སྦྲ་འཕྲོད་བསྟེན
+pollution,བཙོག་རླུང
+recycling,བསྐྱར་སྤྱོད
+conservation,ཉམས་སྲུང
+biodiversity,སྐྱེ་དངོས་སྣ་མང
+wildlife sanctuary,རི་དྭགས་སྲུང་སྐྱོབ་ས་ཁོངས
+national park,རྒྱལ་ཡོངས་གླིང་ག
+glacier,གངས་རི
+valley,ལུང་གཤོངས
+pass,ལ
+cliff,བྱག
+cave,བྲག་ཕུག
+waterfall,ཆུ་འབབ
+hot spring,སྨན་ཆུ
+bridge suspension,ལྕགས་ཟམ
+traditional bridge,བཟམ
+archery match,མདའ་འགྲན
+win the game,རྩེདམོ་རྒྱལ་བ
+lose the game,རྩེདམོ་ཕམ་པ
+i am proud to be bhutanese,ང་འབྲུགཔ་ཅིག་ཨིནམ་ལས་སྤོབས་པ་ཡོད།
+may all sentient beings be happy,སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་ལྡན་པར་གྱུར་ཅིག
+how can i help you today,ད་རིས་ང་གིས་ཁྱོད་ལུ་གྲོགས་རམ་ག་ཅི་འབད་ཚུགས་ག?
+please wait while i check,ང་གིས་ཞིབ་དཔྱད་འབད་བའི་རིང་ཨ་ཙི་ཅིག་སྒུག་གནང་།
+thank you for your patience,ཁྱོད་ཀྱིས་བཟོད་བསྲན་གནང་མི་ལུ་བཀྲིན་ཆེ་ལགས།
+digital payment,གློག་རིག་དངུལ་སྤྲོད
+mobile banking,འགྲུལ་འཕྲིན་དངུལ་ཁང
+bank transfer,དངུལ་ཁང་བརྒྱུད་དེ་གཏང་ནི
+account number,རྩིས་ཁྲའི་ཨང་གྲངས
+balance,ལྷག་ལུས
+insufficient balance,མ་དངུལ་མ་ལངམ
+transaction,དངུལ་འབྲེལ
+qr code,ཁྱུ་ཨར་ཨང་རྟགས
+scan to pay,པར་བཏབ་སྟེ་དངུལ་སྤྲོད་ནི
+cash,དངུལ་རྐྱང
+change,དངུལ་སིལ
+discount,གོང་ཕབ
+free,རིན་མེད
+bill,རྩིས་ཁྲའི་ཤོག་འཛིན
+electric bill,གློག་མེའི་རྩིས་ཁྲ
+water bill,ཆུའི་རྩིས་ཁྲ
+rent,ཁང་གླ
+land,ས་ཆ
+building,སྒྲིང་ཁྱིམ
+kitchen,ཐབ་ཚང
+bathroom,ཁྲུས་ཁང
+toilet,གསང་སྤྱོད
+living room,མགྲོན་ཁང
+bedroom,ཉལ་ཁང
+blanket,ཉལ་ཆས
+pillow,སྔས་འབོལ
+cup,ཕོརཔ
+plate,སྡེར་མ
+spoon,ཐུརམ
+knife,གྲི
+pot,ཧོད
+stove,ཐབ
+firewood,ཤིང
+charcoal,སོལ་བ
+soap,གླང་ཚྭ
+towel,ལག་ཕྱིས
+mirror,མེ་ལོང
+comb,སྐྲ་ཤད
+toothbrush,སོ་འཁྲུད་སྨྱུ་གུ
+umbrella,ཉི་གདུགས
+bag,ཕད་ཙེ
+key,ལྡེ་མིག
+lock,སྒོ་ལྕགས
+clock,ཆུ་ཚོད
+calendar,ཟླ་ཐོ
+festival dance,འཆམ
+clown,ཨ་ཙ་ར
+blessing string,སྲུང་སྐུད
+holy water,ཁྲུས་ཆུ
+offering,མཆོད་པ
+torma,གཏོར་མ
+cymbals,རོལ་མོ
+trumpet,རྒྱ་གླིང
+long horn,དུང་ཆེན
+drum,རྔ
+monastery courtyard,དགོན་པའི་རྡོ་གཅལ
+prostration,ཕྱག་འཚལ་ནི
+circumambulation,སྐོར་ར་རྐྱབ་ནི
+prayer,སྨོན་ལམ
+good karma,ལས་དགེ་བ
+bad karma,ལས་མི་དགེ་བ
+reincarnation,སྐྱེ་བ་ཕྱི་མ
+enlightenment,སངས་རྒྱས་ཀྱི་གོ་འཕང
+guru rinpoche,གུ་རུ་རིན་པོ་ཆེ
+zhabdrung,ཞབས་དྲུང་རིན་པོ་ཆེ
+what is your phone number,ཁྱོད་ཀྱི་འགྲུལ་འཕྲིན་ཨང་གྲངས་ག་ཅི་སྨོ?
+where do you live,ཁྱོད་ག་ཏེ་སྡོདཔ་སྨོ?
+i live in thimphu,ང་ཐིམ་ཕུག་ལུ་སྡོདཔ་ཨིན།
+what is your job,ཁྱོད་ཀྱི་ལཱ་ག་ཅི་སྨོ?
+i am a student,ང་སློབ་ཕྲུག་ཅིག་ཨིན།
+i am a teacher,ང་སློབ་དཔོན་ཅིག་ཨིན།
+can you speak english,ཁྱོད་ཀྱིས་ཨིང་ལིཤ་སླབ་ཤེས་ག?
+a little bit,ཨ་ཙི་ཅིག་ཤེས།
+please speak slowly,ག་ལེ་སྦེ་གསུང་གནང་།
+i am sorry for the delay,ཕྱིས་སོ་མི་ལུ་དགོངས་མ་ཁྲེལ།
+no worries at all,ཚ་གྱལ་རྩ་ལས་མ་འབད།
+have a nice day,ཉིནམ་བདེ་ལེགས་འབྱུང་བཅུག
+see you soon,མགྱོགས་པ་རང་ལོག་ཕྱད་གེ།
+good bye and take care,ལེགས་ཤོམ་སྦེ་བཞུགས་གནང་།
+public service,མི་མང་ཞབས་ཏོག
+online service,ཡོངས་འབྲེལ་ཞབས་ཏོག
+application form,ཞུ་ཡིག་འབྲི་ཤོག
+approval,གནང་བ
+rejection,ངོས་ལེན་མེདཔ
+license,ཆོག་ཐམ
+driving license,སྣུམ་འཁོར་བཏང་ཆོག་པའི་ལག་ཁྱེར
+business license,ཚོང་འབྲེལ་ཆོག་ཐམ
+tax clearance,ཁྲལ་གཙང་དག་ལག་ཁྱེར
+security clearance,ཉེན་སྲུང་གཙང་དག་ལག་ཁྱེར
+birth certificate,སྐྱེས་ཚེས་ལག་ཁྱེར
+death certificate,འཆི་རྐྱེན་ལག་ཁྱེར
+marriage certificate,གཉེན་སྒྲིག་ལག་ཁྱེར
+sim card,སིམ་བྱང་བུ
+mobile data,འགྲུལ་འཕྲིན་གནད་སྡུད
+recharge,དངུལ་བླུགས་ནི
+network coverage,བརྡ་འཕྲིན་ཁྱབ་ཚད
+signal,བརྡ་རྟགས
+battery,གློག་རྫས
+charger,གློག་ཤུགས་སྤྲོད་ཆས
+construction,བཟོ་བསྐྲུན
+engineer,བཟོ་རིག་པ
+architect,བཟོ་བཀོད་པ
+carpenter,ཤིང་བཟོཔ
+mason,རྡོ་བཟོཔ
+painter,ལྷ་བྲིསཔ
+brick,ས་ཕག
+cement,ཨར་འདམ
+wood,ཤིང
+iron,ལྕགས
+roof,ཐོག
+wall,གྱང
+floor,ས་གཞི
+stairs,སྐས་འཛེག
+paddy field,ཆུ་ཞིང
+dry land,སྐམ་ཞིང
+orchard,ཤིང་འབྲས་ལྡུམ་ར
+harvest,ལོ་ཐོག་བསྡུ་ནི
+irrigation,ཞིང་ཆུ
+fertilizer,ལུད
+seeds,ས་བོན
+plough,གཤོལ
+yak,གཡག
+mithun,བ་མེན
+sheep,ལུག
+goat,ར
+pig,ཕགཔ
+chicken,བྱ་མོ
+rooster,བྱ་ཕོ
+beekeeping,སྦྲང་རྩི་གསོ་སྐྱོང
+honey,སྦྲང་རྩི
+wool,བལ
+weaving,ཐགས་འཐག་ནི
+loom,ཐགས་ཁྲི
+textile,རས་ཆ
+kira,དཀྱི་ར
+gho,གོ
+rachu,ར་ཅུ
+kabney,བཀབ་ནེ
+patang,དཔའ་རྟགས
+how long will it take,དུས་ཚོད་ག་དེམ་ཅིག་འགོར་ནི་སྨོ?
+it will take ten minutes,སྐར་མ་བཅུ་དེ་ཅིག་འགོར་འོང་།
+please sign here,ནཱ་ལུ་མཚན་རྟགས་བཀོད་གནང་།
+please fill out this form,འབྲི་ཤོག་འདི་བཀང་གནང་།
+where can i pay,ང་གིས་ཏི་རུ་ག་ཏེ་སྤྲོད་དགོཔ་སྨོ?
+do you accept mobile banking,ཁྱོད་ཀྱིས་འགྲུལ་འཕྲིན་དངུལ་ཁང་བརྒྱུད་དེ་ལེན་ག?
+the system is down right now,ད་ལྟོ་ལམ་ལུགས་འདི་ལཱ་འབད་མི་བཏུབ་པས།
+please try again later,ཤུལ་ལས་ལོག་སྟེ་འབད་རྩོལ་བསྐྱེད་གནང་།
+everything is ready,ག་ར་གྲ་སྒྲིག་ཡོད།
+thank you for your cooperation,ཁྱོད་ཀྱིས་མཉམ་འབྲེལ་གནང་མི་ལུ་བཀྲིན་ཆེ་ལགས།
+passport office,ཕྱི་སྐྱོད་ལག་ཁྱེར་ཡིག་ཚང
+border gate,ས་མཚམས་སྒོ་ར
+customs,འགག་སྒོ
+immigration,ཕྱི་མི་ནང་སྐྱོད
+tour guide,ལྟ་བཤལ་ལམ་སྟོན་པ
+homestay,གཡུས་ཁྱིམ་མགྲོན་ཁང
+temple entrance,ལྷ་ཁང་གི་སྒོ་ར
+offering bowl,མཆོད་ཏིང
+holy relic,རྟེན
+spiritual teacher,བླ་མ
+monastic school,བཤད་གྲྭ
+meditation center,སྒོམ་སྡེ
+prayer flag pole,དར་ཤིང
+chorten,མཆོད་རྟེན
+bridge crossing,ཟམ་པ་བརྒལ་ནི
+mountain pass,ལ་རྩེ
+valley floor,ལུང་གཤོངས་མཐིལ
+river bank,གཙང་ཆུའི་མཐའ་མ
+forest trail,ནགས་ཚལ་གྱི་རྐང་ལམ
+wild animal,རི་དྭགས
+hammer,ཐོ་བ
+nail,གཟེར
+saw,སོག་ལེ
+rope,ཐགཔ
+ladder,སྐས་འཛེག
+bucket,ཟོམ
+broom,ཕྱགས་མ
+scissors,ཇེམ་ཙེ
+needle,ཁབ
+thread,སྐུདཔ
+button,ཐོབ་ཅི
+pocket,ཁུག་མ
+belt,སྐེད་རགས
+hat,ཞྭམོ
+glasses,མིག་ཤེལ
+watch,ལག་འཁོར་ཆུ་ཚོད
+ring,སོར་གདུབ
+necklace,སྐེ་རྒྱན
+earring,རྣ་རྒྱན
+silver,དངུལ
+gold,གསེར
+copper,ཟངས
+brass,རག
+stone wall,རྡོ་རྩིག
+mud wall,གྱང་རྩིག
+shingle roof,ཤིང་ལེབ་ཐོག
+corrugated iron sheet,ལྕགས་ལེབ
+patient,བཟོད་བསྲན་ཅན
+impatient,བཟོད་བསྲན་མེདཔ
+generous,སྦྱིན་པ་ཅན
+greedy,ཧམ་པ་ཅན
+polite,ཞེ་ས་ཅན
+rude,མ་རབས
+curious,ཤེས་འདོད་ཅན
+confident,རང་དབང་སྤོབས་པ་ཅན
+nervous,སེམས་འཚབ་ཅན
+calm,སེམས་ལྷོད་ལྷོད
+grateful,བཀའ་དྲིན་བསམ་ཤེས་ཅན
+forgiving,བཟོད་གསོལ་ཅན
+responsible,འགན་ཁུར་ཅན
+election,བཙག་འཐུ
+voter,ཚོགས་རྒྱན་བཙུགས་མི
+ballot,ཚོགས་རྒྱན
+candidate,འདེམས་ངོ་
+constituency,འདེམས་ཁོངས
+representative,ངོ་ཚབ
+petition,ཞུ་ཚིག
+complaint,ཉོག་བཤད
+investigation,ཞིབ་དཔྱད
+verdict,འཁྲུན་ཆོད
+fine,ཉེས་བྱ
+prison,བཙོན་ཁང
+bail,ཁག་འགན
+lawyer,ཁྲིམས་རྩོདཔ
+agreement signed,ཆིངས་ཡིག་མཚན་རྟགས་བཀོད་ཡི
+how is the weather today,ད་རིས་གནམ་གཤིས་ག་དེ་སྦེ་འདུག་སྨོ?
+it is raining heavily,ཆརཔ་ཤུགས་སྦེ་རྐྱབ་དེས།
+it is very cold today,ད་རིས་བསིལ་དྲགས་སྦེ་འདུག
+the sun is shining brightly,ཉིམ་འོད་ཆེམ་ཆེམ་སྦེ་ཤར་དེས།
+where is the nearest hospital,ཉེ་འདབས་ཀྱི་སྨན་ཁང་ག་ཏེ་ཡོདཔ་སྨོ?
+i need a doctor,ང་ལུ་དྲུང་འཚོ་ཅིག་དགོཔ་འདུག
+please call an ambulance,ནད་པ་སྐྱེལ་འདྲེན་སྣུམ་འཁོར་ལུ་བརྒྱུད་འཕྲིན་གཏང་གནང་།
+i have a fever,ང་ལུ་ཚ་བ་འབར་དེས།
+where can i buy medicine,ང་གིས་སྨན་ག་ཏེ་ལས་ཉོ་ཚུགས་ག?
+what is the bus fare,བཱསི་གི་གླ་ཆ་ག་དེམ་ཅིག་སྨོ?
+when does the bus leave,བཱསི་འདི་ནམ་འགྱོ་ནི་སྨོ?
+please give me a ticket,ང་ལུ་འཛིན་ཤོག་ཅིག་གནང་།
+is this seat taken,རྐང་ཁྲི་འདི་ནང་མི་ཡོད་ག?
+please help me with my luggage,ང་གི་ཅ་ལ་འདི་ལུ་གྲོགས་རམ་འབད་གནང་།
+i would like to order food,ང་བཞེས་སྒོ་མངགས་ནི་ཨིན།
+not too spicy please,ཨེ་མ་ཚ་དྲགས་མ་བླུགས་གནང་།
+the food is delicious,བཞེས་སྒོ་འདི་ཞིམ་ཏོག་ཏོ་འདུག
+please bring the bill,རྩིས་ཁྲའི་ཤོག་འཛིན་འདི་བསྣམས་བྱོན་གནང་།
+keep the change,དངུལ་སིལ་འདི་ཁྱོད་རང་བཞག་གནང་།
+can i take a photo,ང་གིས་པར་ཅིག་བཏབ་ཆོག་ག?
+this place is very peaceful,ས་གནས་འདི་ཞི་བདེ་ཅན་ཅིག་འདུག
+i will come back again,ང་ལོག་སྟེ་འོང་ནི་ཨིན།
+may peace prevail in bhutan,འབྲུག་རྒྱལ་ཁབ་ནང་ཞི་བདེ་དང་དགའ་སྐྱིད་རྟག་ཏུ་འབྱུང་བར་ཤོག
